@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Verified&Sequence_1",
+        "assignStr&Sequence_1",
+        "JsonBodyobject&Sequence_1",
+        "JsonBody&Sequence_1",
+        "Response&Sequence_1",
+        "AdhaarNo&Sequence_1",
+        "CloudVisionOCR&Sequence_1",
+        "ResultOCR&Sequence_1",
+        "Image&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
